@@ -208,4 +208,4 @@ If you have any questions or need help, please open an issue in the repository.
 
 ---
 
-**Made with ❤️ using React and Tailwind CSS** 
+**Made with ❤️ using React and Tailwind CSS**

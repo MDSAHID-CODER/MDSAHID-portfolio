@@ -17,21 +17,28 @@ const Experience = () => {
       icon: <FaGraduationCap className="text-2xl text-primary-600" />,
       items: [
         {
-          title: "Bachelor of Computer Science",
-          institution: "University Name",
-          duration: "2020 - 2024",
-          description: "Graduated with honors in Computer Science with focus on web development and software engineering principles.",
+          title: "Bachelor of Computer Application",
+          institution: (
+            <span className="flex items-center gap-2">
+              <img
+                src="https://www.ignou.ac.in/images/logo.png"
+                alt="IGNOU Logo"
+                className="w-6 h-6"
+              />
+              Indira Gandhi National Open University
+            </span>
+          ),
+          duration: "Start-July2023 - End-July2026",
+          description: "pursuing with a Bachelor's degree in Computer Application with focus on web development and software engineering principles.",
           achievements: [
-            "First Class with Distinction",
-            "Best Final Year Project Award",
-            "Member of Programming Club",
-            "Completed 10+ technical courses"
+            "Best precticer in Web Development",
+            "Member of Programming Club"
           ]
         },
         {
-          title: "Web Development Certification",
+          title: "Web Development Learning Path",
           institution: "Online Platform",
-          duration: "2023",
+          duration: "2023-to-Present",
           description: "Comprehensive certification covering modern web development technologies and best practices.",
           achievements: [
             "Full Stack Development",
@@ -49,22 +56,22 @@ const Experience = () => {
         {
           title: "Freelance Web Developer",
           institution: "Self-Employed",
-          duration: "2023 - Present",
-          description: "Working on various client projects, building responsive websites and web applications.",
+          duration: "2023-to-Present",
+          description: "Working on various projects, building responsive websites and web applications.",
           achievements: [
-            "Completed 15+ client projects",
-            "100% client satisfaction rate",
-            "Specialized in Laravel and React",
+            "Completed 10+ projects",
+            "100% satisfaction rate",
+            "Specialized in HTML, CSS, JavaScript, PHP,Laravel and React",
             "Managed project timelines and budgets"
           ]
         },
         {
           title: "Student Developer Intern",
           institution: "Tech Startup",
-          duration: "Summer 2023",
+          duration: "2023-to-Present",
           description: "Internship focused on learning modern development practices and contributing to real projects.",
           achievements: [
-            "Contributed to 3 production applications",
+            "Contributed to 2 production applications",
             "Learned agile development methodologies",
             "Collaborated with senior developers",
             "Improved code review skills"
@@ -79,10 +86,10 @@ const Experience = () => {
         {
           title: "Online Learning & Courses",
           institution: "Various Platforms",
-          duration: "2022 - Present",
+          duration: "2023-to-Present",
           description: "Continuous learning through online courses, tutorials, and hands-on projects.",
           achievements: [
-            "Completed 20+ online courses",
+            "Completed online courses",
             "Built 10+ personal projects",
             "Learned 8+ programming languages/frameworks",
             "Participated in coding challenges"
@@ -94,7 +101,7 @@ const Experience = () => {
           duration: "2023 - Present",
           description: "Contributing to open source projects to improve skills and give back to the community.",
           achievements: [
-            "Contributed to 5+ open source projects",
+            "Contributed to 2+ open source projects",
             "Improved documentation",
             "Fixed bugs and added features",
             "Learned from experienced developers"
@@ -120,14 +127,14 @@ const Experience = () => {
         },
         {
           title: "Competitions & Hackathons",
-          institution: "University & Online",
-          duration: "2022 - 2024",
+          institution: "Coding Online",
+          duration: "2022 - present",
           description: "Participated in various coding competitions and hackathons to improve problem-solving skills.",
           achievements: [
-            "2nd Place in University Hackathon",
+            "solved 50+ coding problems",
             "Top 10% in Online Coding Competition",
-            "Best UI/UX Award",
-            "Most Innovative Solution Award"
+            "Best UI/UX Designing Learner",
+            "Developed Innovative Solution"
           ]
         }
       ]

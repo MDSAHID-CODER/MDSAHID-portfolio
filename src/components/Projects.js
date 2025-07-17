@@ -17,7 +17,7 @@ const Projects = () => {
       description: "A full-featured e-commerce website built with Laravel and React. Features include user authentication, product management, shopping cart, payment integration, and admin dashboard.",
       image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       technologies: ["Laravel", "React", "MySQL", "Tailwind CSS", "Stripe API"],
-      github: "https://github.com",
+      github: "https://github.com/MDSAHID-CODER",
       live: "https://example.com",
       role: "Full Stack Developer"
     },
@@ -26,7 +26,7 @@ const Projects = () => {
       description: "A collaborative task management application with real-time updates, team collaboration features, and progress tracking. Built with modern web technologies for optimal performance.",
       image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       technologies: ["PHP", "JavaScript", "MySQL", "AJAX", "Bootstrap"],
-      github: "https://github.com",
+      github: "https://github.com/MDSAHID-CODER",
       live: "https://example.com",
       role: "Backend Developer"
     },
@@ -35,8 +35,8 @@ const Projects = () => {
       description: "A modern, responsive portfolio website showcasing my skills and projects. Features smooth animations, interactive elements, and optimized for all devices.",
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80",
       technologies: ["React", "Tailwind CSS", "Framer Motion", "JavaScript"],
-      github: "https://github.com",
-      live: "https://example.com",
+      github: "https://github.com/MDSAHID-CODER",
+      live: "https://mdsahid-portfolio.vercel.app/",
       role: "Frontend Developer"
     },
     {
@@ -44,7 +44,7 @@ const Projects = () => {
       description: "A comprehensive blog platform with content management, user roles, SEO optimization, and analytics dashboard. Built with Laravel and modern frontend technologies.",
       image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
       technologies: ["Laravel", "PHP", "MySQL", "jQuery", "Bootstrap"],
-      github: "https://github.com",
+      github: "https://github.com/MDSAHID-CODER",
       live: "https://example.com",
       role: "Full Stack Developer"
     }
@@ -194,7 +194,7 @@ const Projects = () => {
           className="text-center mt-12"
         >
           <a
-            href="https://github.com"
+            href="https://github.com/MDSAHID-CODER"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary inline-flex items-center gap-2"

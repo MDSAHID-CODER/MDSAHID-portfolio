@@ -29,7 +29,7 @@ const Hero = () => {
             className="text-5xl md:text-7xl font-bold mb-6"
           >
             <span className="text-secondary-800">Welcome to</span>
-            <span className="gradient-text">My Portfolio</span>
+            <span className="gradient-text"> My Portfolio</span>
           </motion.h1>
 
           {/* Subheadline */}
@@ -83,7 +83,7 @@ const Hero = () => {
             className="flex justify-center space-x-6"
           >
             <motion.a
-              href="https://github.com"
+              href="https://github.com/MDSAHID-CODER"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1, y: -2 }}
@@ -92,7 +92,7 @@ const Hero = () => {
               <FaGithub size={20} />
             </motion.a>
             <motion.a
-              href="https://linkedin.com"
+              href="https://in.linkedin.com/in/mdsahid-developer-coder-30741936b"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1, y: -2 }}
@@ -101,7 +101,7 @@ const Hero = () => {
               <FaLinkedin size={20} />
             </motion.a>
             <motion.a
-              href="mailto:your.email@example.com"
+              href="mailto:mdsahid0614@gmail.com"
               whileHover={{ scale: 1.1, y: -2 }}
               className="w-12 h-12 bg-secondary-100 hover:bg-primary-100 text-secondary-600 hover:text-primary-600 rounded-full flex items-center justify-center transition-all duration-300"
             >

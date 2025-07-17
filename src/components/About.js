@@ -87,11 +87,11 @@ const About = () => {
             {/* Key Highlights */}
             <div className="grid grid-cols-2 gap-4 pt-6">
               <div className="text-center p-4 bg-primary-50 rounded-lg">
-                <div className="text-2xl font-bold text-primary-600 mb-1">2+</div>
+                <div className="text-2xl font-bold text-primary-600 mb-1">1+</div>
                 <div className="text-sm text-secondary-600">Years Learning</div>
               </div>
               <div className="text-center p-4 bg-accent-50 rounded-lg">
-                <div className="text-2xl font-bold text-accent-600 mb-1">10+</div>
+                <div className="text-2xl font-bold text-accent-600 mb-1">5+</div>
                 <div className="text-sm text-secondary-600">Projects Completed</div>
               </div>
             </div>
@@ -110,7 +110,7 @@ const About = () => {
                 <div className="w-72 h-72 bg-white rounded-full flex items-center justify-center">
                   <div className="text-center">
                     <div className="text-6xl mb-2">👨‍💻</div>
-                    <div className="text-secondary-600 font-medium">Your Photo Here</div>
+                    <div className="text-secondary-600 font-medium">Junior Software Developer</div>
                   </div>
                 </div>
               </div>
