@@ -20,11 +20,11 @@ const Experience = () => {
           title: "Bachelor of Computer Application",
           institution: (
             <span className="flex items-center gap-2">
-              <img
+              {/* <img
                 src="https://www.pngfind.com/pngs/m/211-2110857_ignou-logo-png-transparent-png.png"
                 alt="IGNOU Logo"
                 className="w-6 h-6"
-              />
+              /> */}
               Indira Gandhi National Open University
             </span>
           ),
