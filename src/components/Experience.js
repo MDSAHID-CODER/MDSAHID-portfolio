@@ -21,7 +21,7 @@ const Experience = () => {
           institution: (
             <span className="flex items-center gap-2">
               <img
-                src="https://pngfind.com/mpng/irjhxro_ignou-logo-png-transparent-png/"
+                src="https://www.pngfind.com/pngs/m/211-2110857_ignou-logo-png-transparent-png.png"
                 alt="IGNOU Logo"
                 className="w-6 h-6"
               />
