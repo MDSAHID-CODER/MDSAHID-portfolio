@@ -14,14 +14,14 @@ const Experience = () => {
   const experiences = [
     {
       title: "Education",
-      icon: <FaGraduationCap className="text-2xl text-primary-600" />,
+      icon: <FaGraduationCap className="text-2xl text-primary-600"/>,
       items: [
         {
           title: "Bachelor of Computer Application",
           institution: (
             <span className="flex items-center gap-2">
               <img
-                src="https://www.ignou.ac.in/images/logo.png"
+                src="https://pngfind.com/mpng/irjhxro_ignou-logo-png-transparent-png/"
                 alt="IGNOU Logo"
                 className="w-6 h-6"
               />
